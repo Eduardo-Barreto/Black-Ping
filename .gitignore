@@ -1,5 +1,6 @@
 cube/*
 !**/*.ioc
+Debug/
 
 build/
 -g
